@@ -4,4 +4,5 @@
 ## 1-1. 세부 항목
 * 안녕
 * 하세요 
+* feature/mypate가 첫 번째 파일을 수정함
 * feature/cart가 첫 번째 파일을 수정함
